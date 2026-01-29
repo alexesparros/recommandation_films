@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+.ipynb_checkpoints/
+.streamlit/
+Thumbs.db
+.DS_Store
+
+# Données
+csv/*.csv
+!csv/df_reco_film.csv
+!csv/df_final_translated.csv

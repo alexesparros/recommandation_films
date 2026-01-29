@@ -1,0 +1,4 @@
+pandas
+plotly
+yt-dlp
+streamlit_option_menu
