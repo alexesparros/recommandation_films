@@ -1,4 +1,6 @@
+altair==4.2.2
 pandas
 plotly
-yt-dlp
+streamlit==1.19.0
 streamlit_option_menu
+yt-dlp
